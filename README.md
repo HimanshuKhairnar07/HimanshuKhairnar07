@@ -1,77 +1,30 @@
-🚀 Himanshu Khairnar | Aspiring Software Engineer | Java Enthusiast
 
-Welcome to my GitHub profile! I'm Himanshu Khairnar, an Integrated MCA graduate with a passion for building innovative software solutions. With strong skills in Java, web technologies, and modern frameworks, I'm eager to contribute to cutting-edge projects in a dynamic team environment. I thrive on problem-solving, continuous learning, and creating efficient, scalable applications.
-🛠️ Core Java Expertise
-• Languages & Frameworks: Java & Advanced Java, Spring Boot, Hibernate, JPA, Servlets, JSP, MVC Architecture
+# 💫 About Me:
+# 🚀 Himanshu Khairnar | Aspiring Software Engineer | Java Enthusiast<br><br>
 
-• Web Technologies: HTML, Tailwind CSS, JavaScript, React JS, NodeJS, PHP
+Welcome to my GitHub profile! I'm Himanshu Khairnar, an Integrated MCA graduate with a passion for building innovative software solutions. With strong skills in Java, web technologies, and modern frameworks, I'm eager to contribute to cutting-edge projects in a dynamic team environment. I thrive on problem-solving, continuous learning, and creating efficient, scalable applications. 🛠️ Core Java Expertise • Languages & Frameworks: Java & Advanced Java, Spring Boot, Hibernate, JPA, Servlets, JSP, MVC Architecture<br><br>• Web Technologies: HTML, Tailwind CSS, JavaScript, React JS, NodeJS, PHP<br><br>• Databases: MySQL<br><br>• Tools & DevOps: Kubernetes, Docker, Git, GitHub, VS Code, Eclipse, Visual Studio<br><br>• Certifications: Java Spring Framework 6 with Spring Boot 3, AWS Cloud Practitioner, Java Programming, Web Development<br><br>📂 Featured Java Projects<br><br>Here are my key projects showcasing my Java skills and development experience. Each repository is well-documented with READMEs, setup instructions, and usage examples. I've pinned the most relevant ones to highlight my expertise.<br><br>🌟 Movers and Packers Management System<br><br>• Description: A web-based logistics platform for digitizing service bookings and operations for residential/commercial moves, built during my internship.<br><br>• Technologies: Java, HTML, CSS, JavaScript, JSP Servlet, MVC Architecture, MySQL<br><br>• My Role: Developed as part of my IMCA project; implemented customer features like user registration, role-based login, service booking, cost estimation, and payment integration; added admin features for managing bookings, staff assignment, invoicing, and analytics.<br><br>• Key Features: Automated cost estimations, integrated payment system, admin dashboard with reports, real-time scheduling.<br><br>🔧 Parking Management System<br><br>• Description: A robust web app for managing parking spaces, enhancing user experience with real-time tracking and automation.<br><br>• Technologies: PHP, MySQL, HTML, CSS, JavaScript<br><br>• My Role: Designed and developed the system, focusing on backend logic for availability tracking, ticket generation, and reporting.<br><br>• Key Features: Real-time parking availability, automated ticket generation, payment integration, user-friendly interface.<br><br>📱 ATM Interface (Java)<br><br>• Description: A console-based ATM simulation demonstrating core Java concepts like OOP and exception handling.<br><br>• Technologies: Java<br><br>• My Role: Built from scratch as a mini-project to practice Java fundamentals.<br><br>• Key Features: User authentication, balance inquiry, withdrawal/deposit operations, secure transaction handling.<br><br>📝 Keep Notes Web App<br><br>• Description: A simple note-taking app with CRUD operations, built to explore React JS.<br><br>• Technologies: React JS, JavaScript, HTML, CSS<br><br>• My Role: Developed the frontend, implementing state management and responsive design.<br><br>• Key Features: Add/edit/delete notes, search functionality, local storage persistence.<br><br>🧮 Age Calculator<br><br>• Description: A web-based age calculator tool for quick date calculations.<br><br>• Technologies: HTML, Tailwind CSS, JavaScript<br><br>• My Role: Created as a mini-project to practice frontend skills.<br><br>• Key Features: Input birth date, calculate age in years/months/days, responsive UI.<br><br>🌐 Connect With Me<br><br>• Email: himanshukhairnar094@gmail.com<br><br>• Phone: +91 9730983297<br><br>• LinkedIn: www.linkedin.com/in/himanshu-khairnar-a9a041250<br><br>• GitHub: https://github.com/HimanshuKhairnar07
 
-• Databases: MySQL
 
-• Tools & DevOps: Kubernetes, Docker, Git, GitHub, VS Code, Eclipse, Visual Studio
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshu-khairnar-a9a041250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshukhairnar094@gmail.com) 
 
-• Certifications: Java Spring Framework 6 with Spring Boot 3, AWS Cloud Practitioner, Java Programming, Web Development
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HimanshuKhairnar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HimanshuKhairnar07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuKhairnar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📂 Featured Java Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HimanshuKhairnar07&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-Here are my key projects showcasing my Java skills and development experience. Each repository is well-documented with READMEs, setup instructions, and usage examples. I've pinned the most relevant ones to highlight my expertise.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌟 Movers and Packers Management System
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HimanshuKhairnar07&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-• Description: A web-based logistics platform for digitizing service bookings and operations for residential/commercial moves, built during my internship.
+---
+[![](https://visitcount.itsvg.in/api?id=HimanshuKhairnar07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• Technologies: Java, HTML, CSS, JavaScript, JSP Servlet, MVC Architecture, MySQL
-
-• My Role: Developed as part of my IMCA project; implemented customer features like user registration, role-based login, service booking, cost estimation, and payment integration; added admin features for managing bookings, staff assignment, invoicing, and analytics.
-
-• Key Features: Automated cost estimations, integrated payment system, admin dashboard with reports, real-time scheduling.
-
-🔧 Parking Management System
-
-• Description: A robust web app for managing parking spaces, enhancing user experience with real-time tracking and automation.
-
-• Technologies: PHP, MySQL, HTML, CSS, JavaScript
-
-• My Role: Designed and developed the system, focusing on backend logic for availability tracking, ticket generation, and reporting.
-
-• Key Features: Real-time parking availability, automated ticket generation, payment integration, user-friendly interface.
-
-📱 ATM Interface (Java)
-
-• Description: A console-based ATM simulation demonstrating core Java concepts like OOP and exception handling.
-
-• Technologies: Java
-
-• My Role: Built from scratch as a mini-project to practice Java fundamentals.
-
-• Key Features: User authentication, balance inquiry, withdrawal/deposit operations, secure transaction handling.
-
-📝 Keep Notes Web App
-
-• Description: A simple note-taking app with CRUD operations, built to explore React JS.
-
-• Technologies: React JS, JavaScript, HTML, CSS
-
-• My Role: Developed the frontend, implementing state management and responsive design.
-
-• Key Features: Add/edit/delete notes, search functionality, local storage persistence.
-
-🧮 Age Calculator
-
-• Description: A web-based age calculator tool for quick date calculations.
-
-• Technologies: HTML, Tailwind CSS, JavaScript
-
-• My Role: Created as a mini-project to practice frontend skills.
-
-• Key Features: Input birth date, calculate age in years/months/days, responsive UI.
-
-🌐 Connect With Me
-
-• Email: himanshukhairnar094@gmail.com
-
-• Phone: +91 9730983297
-
-• LinkedIn: www.linkedin.com/in/himanshu-khairnar-a9a041250
-
-• GitHub: https://github.com/HimanshuKhairnar07
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
